@@ -1,0 +1,27 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+  <text name="nameLabel" extra="true">
+    <text>ATARI XEGS</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line1" extra="true">
+    <text>ATARI</text>
+
+  </text>
+  <text name="sys_line2" extra="true">
+    <text>XEGS</text>
+
+</text>
+  <text name="shortdescription" extra="true">
+   <text>1987  ·  Home Computer</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Atari XE Video Game System (Atari XEGS) is an industrial redesign of the Atari 65XE home computer and the final model in the Atari 8-bit family. It was released by Atari Corporation in 1987 and marketed as a home video game console.</text>
+  </text>
+ </view>
+</theme>
